@@ -1,0 +1,20 @@
+.body {
+    background-color: #FFFAFA;
+}
+
+.picture {
+    margin-top: 2%;
+    width: 30%;
+    height: 30%;
+}
+
+.pic-div {
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+}
